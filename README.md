@@ -26,7 +26,7 @@ The parent folder name was `flutter-firebase-simple-integration`. This name was 
 
 To make it work, I had to rename the folder to `flutter_firebase_simple_integration`.
 
-### The plugin cloud_firestore requires a higher Android SDK version
+### Exception: The plugin cloud_firestore requires a higher Android SDK version
 
 Some times flutter could be using an older version of the Minimun Android SDK.
 
